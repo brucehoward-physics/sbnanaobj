@@ -15,6 +15,7 @@
   <class name="caf::SRFlashMatch"        />
   <class name="caf::SRSliceRecoBranch" />
   <class name="caf::SRTrack" />
+  <class name="caf::SRPFP" />
   <class name="caf::SRTrackTruth" />
   <class name="caf::ParticleMatch" />
   <class name="caf::SRTrackCalo" />
