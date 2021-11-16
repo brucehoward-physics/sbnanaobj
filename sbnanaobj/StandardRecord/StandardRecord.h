@@ -15,6 +15,8 @@
 #include "sbnanaobj/StandardRecord/SRTruthBranch.h"
 #include "sbnanaobj/StandardRecord/SRFakeReco.h"
 
+#include <string>
+
 /// Common Analysis Files
 namespace caf
 {
@@ -47,6 +49,7 @@ namespace caf
 
 
     bool pass_flashtrig;     ///< Whether this Record passed the Flash Trigger requirement
+    std::string test;
 
   };
 
